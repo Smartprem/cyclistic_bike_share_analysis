@@ -29,3 +29,9 @@ The data is collected first-hand by Cyclistic and would be considered credible s
 As for the data collected during the period I am looking closer at it looks like columns have been consolidated, but there are some mixed data types, inconsitent value and extreme values that will need to be addressed during cleaning.
 
 Due to privacy restrictions there is no information about the number of unique users or any information about who the users are. Therefore it is not possible to determine the actual number of users or find any patterns based on user backgrounds.
+
+Process
+Since this project involves working with an extensive amount of data, I have chosen to work in R. It is also handy since I can perform all the tasks required for this project in one tool.
+
+Setting up R
+First I install the packages I need for my analysis in R and import the data.
