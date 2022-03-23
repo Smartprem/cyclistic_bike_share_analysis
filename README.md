@@ -35,3 +35,15 @@ Since this project involves working with an extensive amount of data, I have cho
 
 Setting up R
 First I install the packages I need for my analysis in R and import the data.
+
+You can see the full R code from the folder above
+
+Recommendations
+Now, based on these findings, my advice to the corporation would be to create messaging that emphasizes the money saved by becoming a member, allowing for longer rides.
+
+The majority of media buys were made in the months of January and February, as casual ridership increased by about 50%. It's possible that it's related to New Year's resolutions, but more research is needed.
+
+If casual users are already aware that there are other bike possibilities, geo-targeted advertisements near or around bike dock stations can be created.
+
+Those who come from what are assumed to be commute-heavy areas should be targeted as well.
+More information about these individuals' attributes is needed to understand what motivates them, but they might respond favorably to a message regarding health and/or climate change.
